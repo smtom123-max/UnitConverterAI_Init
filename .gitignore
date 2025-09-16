@@ -1,0 +1,25 @@
+# Build artifacts
+/build/
+**/CMakeFiles/
+**/CMakeCache.txt
+**/cmake_install.cmake
+**/CTestTestfile.cmake
+**/Makefile
+**/*.o
+**/*.obj
+**/*.exe
+**/*.a
+**/*.lib
+**/*.dll
+**/*.pdb
+
+# IDE
+.vscode/
+.idea/
+
+# Misc
+*.log
+*.user
+*.swp
+*.swo
+
